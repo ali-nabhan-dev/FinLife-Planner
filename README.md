@@ -46,7 +46,14 @@ FinLife Planner is a web-based application that enables users to efficiently org
 ![aboutus](https://github.com/ali-nabhan-dev/FinLife-Planner/blob/971e2ee52f0b91bb046a1f220cbe6223b1933324/Screenshots/about%20us%20page.png)
 ![features](https://github.com/ali-nabhan-dev/FinLife-Planner/blob/971e2ee52f0b91bb046a1f220cbe6223b1933324/Screenshots/features%20page.png)
 ![BudgetForm](https://github.com/ali-nabhan-dev/FinLife-Planner/blob/971e2ee52f0b91bb046a1f220cbe6223b1933324/Screenshots/BudgetForm%20page.png)
-
+![BudgetForm](https://github.com/ali-nabhan-dev/FinLife-Planner/blob/cf81837383bf54a4857b266dd8f8cf19e60b00df/Screenshots/BudgetForm2%20page.png)
+![MonthlyOrganizer](https://github.com/ali-nabhan-dev/FinLife-Planner/blob/cf81837383bf54a4857b266dd8f8cf19e60b00df/Screenshots/MonthlyOrganizer1.png)
+![MonthlyOrganizer1](https://github.com/ali-nabhan-dev/FinLife-Planner/blob/cf81837383bf54a4857b266dd8f8cf19e60b00df/Screenshots/MonthlyOrganizer2.png)
+![FuturePlans](https://github.com/ali-nabhan-dev/FinLife-Planner/blob/cf81837383bf54a4857b266dd8f8cf19e60b00df/Screenshots/FuturePlans1.png)
+![FuturePlans](https://github.com/ali-nabhan-dev/FinLife-Planner/blob/cf81837383bf54a4857b266dd8f8cf19e60b00df/Screenshots/FuturePlans2.png)
+![locations](https://github.com/ali-nabhan-dev/FinLife-Planner/blob/cf81837383bf54a4857b266dd8f8cf19e60b00df/Screenshots/LocationsRecommendations.png)
+![directions](https://github.com/ali-nabhan-dev/FinLife-Planner/blob/cf81837383bf54a4857b266dd8f8cf19e60b00df/Screenshots/Directions.png)
+![overview](https://github.com/ali-nabhan-dev/FinLife-Planner/blob/cf81837383bf54a4857b266dd8f8cf19e60b00df/Screenshots/Overview%20page.png)
 
 ---
 
