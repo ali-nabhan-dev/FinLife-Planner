@@ -99,9 +99,10 @@ You can access the full project documentation below:
 
 ## 🎯 Future Improvements
 
-* Integrating machine learning for smarter financial predictions
+* Cloud database integration
 * Enhancing UI/UX for better user experience
-* Adding mobile responsiveness and cross-platform support
+* Adding cross-platform support
+* AI-powered budget suggestions
 
 ---
 
