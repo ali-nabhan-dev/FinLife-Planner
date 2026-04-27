@@ -17,7 +17,7 @@ FinLife Planner is a web-based application that enables users to efficiently org
 * 📈 **Financial Insights**: Generate data-driven reports and analytics
 * 🎯 **Goal Planning**: Plan and allocate funds for future financial goals
 * 🔄 **Dynamic Updates**: Real-time updates based on user inputs
-* 🔄 **Locations Sujestions**: get best locations based on the financial plan
+* 📍 **Locations Sujestions**: get best locations based on the financial plan
 ---
 
 ## 🧠 Technologies Used
@@ -27,6 +27,24 @@ FinLife Planner is a web-based application that enables users to efficiently org
 * **Database**: MySQL
 * **Concepts**: Data Analysis, Financial Modeling
 
+---
+## 🛠️ Tech Stack
+
+- Frontend: React.js
+- State Management: React Context API
+- Styling: CSS / Tailwind (if used)
+- Animations: Framer Motion
+- Icons: React Icons
+
+---
+
+## 🧠 Core Concepts Used
+
+- Component-based architecture
+- State management with Context API
+- Dynamic form handling
+- Data-driven UI updates
+- Financial logic calculations (budget allocation algorithms)
 ---
 
 ## 📊 Project Impact
