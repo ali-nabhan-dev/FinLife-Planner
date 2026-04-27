@@ -38,6 +38,7 @@ FinLife Planner is a web-based application that enables users to efficiently org
 ---
 
 ## 📷 Screenshots
+![Login Page](Screenshots/LogIn page.png)
 
 
 
