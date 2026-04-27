@@ -40,6 +40,8 @@ FinLife Planner is a web-based application that enables users to efficiently org
 ## 📷 Screenshots
 
 ![Login](https://github.com/ali-nabhan-dev/FinLife-Planner/blob/8e90498536dcbe1ad7702c3aa104a85137557fe2/Screenshots/LogIn%20page.png)
+![Signup](https://github.com/ali-nabhan-dev/FinLife-Planner/blob/be1c8a217126e30e50404f16de760f875c714f4d/Screenshots/SignUp%20page.png
+)
 
 
 ---
