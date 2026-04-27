@@ -20,7 +20,7 @@ FinLife Planner is a web-based application that enables users to efficiently org
 * 📍 **Locations Sujestions**: get best locations based on the financial plan
 ---
 
-## 🧠 Technologies Used
+## 🧠 Some Technologies Used
 
 * **Frontend**: HTML, CSS, JavaScript,React.js
 * **Backend**: PHP
@@ -32,7 +32,7 @@ FinLife Planner is a web-based application that enables users to efficiently org
 
 - Frontend: React.js
 - State Management: React Context API
-- Styling: CSS / Tailwind (if used)
+- Styling: CSS / Tailwind 
 - Animations: Framer Motion
 - Icons: React Icons
 
