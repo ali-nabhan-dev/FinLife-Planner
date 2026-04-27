@@ -59,10 +59,13 @@ FinLife Planner is a web-based application that enables users to efficiently org
 
 ## 📄 Project Report
 
-You can access the full project documentation here:
-*👉 [View Report](https://docs.google.com/document/d/1memENFh8exlbXfpIphEq1jjEsJ7sH0ls/edit?usp=sharing&ouid=100290697760836640051&rtpof=true&sd=true)
-*👉 [Download Report](Project-report.pdf)
+You can access the full project documentation below:
 
+🔹 **View Online**  
+👉 [Open Report](https://docs.google.com/document/d/1memENFh8exlbXfpIphEq1jjEsJ7sH0ls/edit?usp=sharing&ouid=100290697760836640051&rtpof=true&sd=true)
+
+🔹 **Download PDF**  
+👉 [Download Report](Project-report.pdf)
 
 ---
 
