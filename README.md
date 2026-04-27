@@ -69,17 +69,6 @@ You can access the full project documentation below:
 
 ---
 
-## 🛠️ Installation (Optional if you upload code)
-
-1. Clone the repository:
-
-   ```bash
-   git clone https://github.com/yourusername/FinLife-Planner.git
-   ```
-2. Import the database (MySQL)
-3. Run the project on a local server (e.g., XAMPP)
-
----
 
 ## 👨‍💻 Author
 
